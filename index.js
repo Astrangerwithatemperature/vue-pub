@@ -72,7 +72,7 @@ var vm = new Vue({
     el:"#testApp",
     data:{
         count:7,
-        jk:89,
+        jk:90,
     },
     components:{
         'test-component':TestComponent
